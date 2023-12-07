@@ -25,7 +25,6 @@ TaxiOpenEventFrame:SetScript("OnEvent", function(self, event, ...)
 	end
 
 	if ( event == "TAXIMAP_OPENED" ) then
-		print(spellName)
 		CancelSpellByName(spellName)
 
 		if ( IsMounted() ) then
