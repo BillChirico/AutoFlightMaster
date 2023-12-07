@@ -1,7 +1,7 @@
 ## Interface: 11500
-## Title: Remove Metamorphosis & Dismount at Flight Master
-## Notes: Remove Metamorphosis & dismounts when flight master window displays available flight paths.
+## Title: Removes Auras & Dismount at Flight Master
+## Notes: Remove aruas & dismounts when flight master window displays available flight paths.
 ## Author: Bapes
-## Version: 1
+## Version: 1.1
 
 AutoFlightMaster.lua
